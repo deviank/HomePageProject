@@ -2,6 +2,6 @@
 
 Creating a basic homepage for my website.
 
-Uploaded basic website homepage.
+Uploaded basic HTML website homepage .
 
-Uploaded my stylesheet.
+Uploaded my CSS stylesheet.
