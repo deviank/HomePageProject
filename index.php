@@ -11,7 +11,7 @@
             <div id="header-page">
               <div id="header" class ="container">
                 <div id="logo">
-                  <h1>My Web site</h1>
+                  <h1>My First Web site for coffee</h1>
                 </div>
               </div>
                 <div id="banner">
