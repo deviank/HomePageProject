@@ -2,8 +2,8 @@ body{
   background: #FFFFFF;
   font-family: 'Abel', sans-serif;
   font-size: 20px;
-  color: #3B#B#B;
-}
+  color: #3B3B3B;
+ }
 
 h1, h2{
   font-family: "impact";
@@ -18,10 +18,12 @@ h1, h2{
   line-height: 150px;
   letter-spacing: 3px;
   font-size: 3em;
+  margin-left: 450px;
 }
 
 #header-page{
   overflow: hidden;
+  width: 900px;
   height: 600px;
 }
 
@@ -29,7 +31,99 @@ h1, h2{
   overflow: hidden;
   width: 1000px;
   height: 150px;
-  margin: 0px;
-  padding: 0px, 0px;
+  margin: 0px auto;
+  padding: 0px 0px;
 }
+
+#banner{
+  margin: 0px auto;
+  width: 1000px;
+  height: 450px;
+}
+
+img{
+    width: 950px;
+    margin-left: 275px;
+}
+
+#threeColumns{
+  overflow: hidden;
+  width: 1000px;
+  margin: 0px auto;
+  padding: 30px 0px;
+}
+
+#threeColumns h2{
+  padding: 0px 9px 20px 0px;
+  font-size: 30px;  
+}
+
+#threeColumns #column1{
+  float: left;
+  width: 300px;
+  margin-right: 50px;
+}
+
+#threeColumns #column2{
+  float: left;
+  width: 300px;
+}
+
+#threeColumns #column3{
+  float: right;
+  width: 300px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
